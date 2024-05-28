@@ -1,0 +1,11 @@
+C:\_Dev_\_Projects\Financode\Financode.Core\bin\Debug\net8.0\Financode.Core.deps.json
+C:\_Dev_\_Projects\Financode\Financode.Core\bin\Debug\net8.0\Financode.Core.dll
+C:\_Dev_\_Projects\Financode\Financode.Core\bin\Debug\net8.0\Financode.Core.pdb
+C:\_Dev_\_Projects\Financode\Financode.Core\obj\Debug\net8.0\Financode.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev_\_Projects\Financode\Financode.Core\obj\Debug\net8.0\Financode.Core.AssemblyInfoInputs.cache
+C:\_Dev_\_Projects\Financode\Financode.Core\obj\Debug\net8.0\Financode.Core.AssemblyInfo.cs
+C:\_Dev_\_Projects\Financode\Financode.Core\obj\Debug\net8.0\Financode.Core.csproj.CoreCompileInputs.cache
+C:\_Dev_\_Projects\Financode\Financode.Core\obj\Debug\net8.0\Financode.Core.dll
+C:\_Dev_\_Projects\Financode\Financode.Core\obj\Debug\net8.0\refint\Financode.Core.dll
+C:\_Dev_\_Projects\Financode\Financode.Core\obj\Debug\net8.0\Financode.Core.pdb
+C:\_Dev_\_Projects\Financode\Financode.Core\obj\Debug\net8.0\ref\Financode.Core.dll

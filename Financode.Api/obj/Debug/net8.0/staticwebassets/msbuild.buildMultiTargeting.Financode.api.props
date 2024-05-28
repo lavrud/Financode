@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Financode.api.props" />
+</Project>
