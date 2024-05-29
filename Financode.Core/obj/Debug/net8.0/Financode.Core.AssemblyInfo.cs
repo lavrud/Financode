@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Financode.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be10f57ca19ed771ed0a749b2d794c3d38fafefb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Financode.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Financode.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
